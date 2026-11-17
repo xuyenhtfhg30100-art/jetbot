@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Rover 2026: Quantum Grounding & Deep Thinking 3D",
+  "description": "Interactive 3D cyber-rover game navigating the 2026 Tech Frontier with real-time Google Search Grounding and Gemini High Thinking neural core.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
